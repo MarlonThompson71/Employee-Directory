@@ -1,0 +1,9 @@
+
+.table-bordered {
+    border: 4px solid black;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 0.5px solid black;
+}
