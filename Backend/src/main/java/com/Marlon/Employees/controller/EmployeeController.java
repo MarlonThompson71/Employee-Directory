@@ -10,7 +10,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:3000") // React frontend origin
+@CrossOrigin(origins = "http://localhost:3000")
 @Controller
 public class EmployeeController {
 

@@ -22,5 +22,5 @@ public class Employee {
     @Lob
     private byte[] photoData; // New field to store photo data
 
-    // Getters and setters
+
 }
